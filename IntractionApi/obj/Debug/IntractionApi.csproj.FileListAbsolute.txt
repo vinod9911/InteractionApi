@@ -86,3 +86,8 @@ D:\Projects\IntractionApi\IntractionApi\bin\Microsoft.Owin.Security.MicrosoftAcc
 D:\Projects\IntractionApi\IntractionApi\bin\System.Web.Http.Owin.xml
 D:\Projects\IntractionApi\IntractionApi\obj\Debug\IntractionApi.dll
 D:\Projects\IntractionApi\IntractionApi\obj\Debug\IntractionApi.pdb
+D:\Projects\IntractionApi\IntractionApi\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+D:\Projects\IntractionApi\IntractionApi\bin\Swashbuckle.Core.dll
+D:\Projects\IntractionApi\IntractionApi\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\IntractionApi\IntractionApi\bin\WebActivatorEx.dll
+D:\Projects\IntractionApi\IntractionApi\bin\System.IdentityModel.Tokens.Jwt.xml

@@ -29,7 +29,6 @@ D:\Projects\IntractionApi\IntractionApi.Tests\bin\Debug\System.Web.WebPages.dll
 D:\Projects\IntractionApi\IntractionApi.Tests\bin\Debug\System.Web.WebPages.Razor.dll
 D:\Projects\IntractionApi\IntractionApi.Tests\bin\Debug\Microsoft.Owin.dll
 D:\Projects\IntractionApi\IntractionApi.Tests\bin\Debug\Owin.dll
-D:\Projects\IntractionApi\IntractionApi.Tests\bin\Debug\System.Web.Http.Owin.dll
 D:\Projects\IntractionApi\IntractionApi.Tests\bin\Debug\IntractionApi.pdb
 D:\Projects\IntractionApi\IntractionApi.Tests\bin\Debug\Newtonsoft.Json.xml
 D:\Projects\IntractionApi\IntractionApi.Tests\bin\Debug\System.Net.Http.Formatting.xml
@@ -42,6 +41,7 @@ D:\Projects\IntractionApi\IntractionApi.Tests\bin\Debug\System.Web.WebPages.xml
 D:\Projects\IntractionApi\IntractionApi.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
 D:\Projects\IntractionApi\IntractionApi.Tests\bin\Debug\System.Web.WebPages.Razor.xml
 D:\Projects\IntractionApi\IntractionApi.Tests\bin\Debug\Microsoft.Owin.xml
-D:\Projects\IntractionApi\IntractionApi.Tests\bin\Debug\System.Web.Http.Owin.xml
 D:\Projects\IntractionApi\IntractionApi.Tests\obj\Debug\IntractionApi.Tests.dll
 D:\Projects\IntractionApi\IntractionApi.Tests\obj\Debug\IntractionApi.Tests.pdb
+D:\Projects\IntractionApi\IntractionApi.Tests\bin\Debug\WebActivatorEx.dll
+D:\Projects\IntractionApi\IntractionApi.Tests\bin\Debug\Swashbuckle.Core.dll
