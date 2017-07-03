@@ -29,6 +29,7 @@ namespace IntractionApi.DependencyResolution {
                     scan.WithDefaultConventions();
                 });
             //For<IExample>().Use<Example>();
+            //Test
         }
 
         #endregion
